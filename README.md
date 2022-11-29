@@ -10,7 +10,9 @@ Open 2 terminals. For back and for front
 Write on first terminal:
 * cd .\back_gallery\
 * npm run initDB
-* after it ends write:
+
+
+after it ends write:
 * npm start
 
 
