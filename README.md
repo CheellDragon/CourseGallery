@@ -1,7 +1,9 @@
-# This is 8 hour take fast pet project done on my course
+## This is 8 hour take fast pet project done on my course
 
 
 Be sure ports 3000 and 8000 is free( if not change ports in code )
+
+
 Open 2 terminals. For back and for front
 
 
